@@ -1,0 +1,28 @@
+{
+  "name": "laravel-pagination",
+  "version": "1.0.0",
+  "description": "this package used to create pagintion for laravel",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliaryani/laravel-pagination.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "dependencies": {
+    "@material-ui/core": "^4.4.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-scripts": "3.1.1"
+  },
+  "author": "Ali Aryani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliaryani/laravel-pagination/issues"
+  },
+  "homepage": "https://github.com/aliaryani/laravel-pagination#readme"
+}
